@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/author/torcode_user/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 26 Sep 2024 06:49:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Sep 2024 08:00:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,24 +29,23 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=6</guid>
 
-					<description><![CDATA[Code block: This is just some regular paragraph text. [...]<p><a class="btn btn-secondary understrap-read-more-link" href="/index.php/2024/09/26/test-title/">Read More...<span class="screen-reader-text"> from Sometimes we must dance.</span></a></p>]]></description>
+					<description><![CDATA[Heading This is just some regular paragraph text Code block const someFunc = (input: string) => { console.log("hello world - moo", input); } [...]<p><a class="btn btn-secondary understrap-read-more-link" href="/index.php/2024/09/26/test-title/">Read More...<span class="screen-reader-text"> from Sometimes we must dance.</span></a></p>]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="912" height="1024" src="/wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n-912x1024.png" alt="" class="wp-image-12" style="width:342px;height:auto" srcset="/wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n-912x1024.png 912w, /wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n-267x300.png 267w, /wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n-768x862.png 768w, /wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n.png 1180w" sizes="(max-width: 912px) 100vw, 912px" /></figure>
+<h2 class="wp-block-heading">Heading</h2>
 
 
 
-<h2 class="wp-block-heading">Code block:</h2>
+<p>This is just some regular paragraph text</p>
 
 
 
-<pre class="wp-block-code"><code lang="typescript" class="language-typescript">const someFunc = (input: string) => {
+<h2 class="wp-block-heading">Code block</h2>
 
-  console.log("hello world", input);
+
+
+<pre class="wp-block-code"><code class="language-typescript">const someFunc = (input: string) => {
+  console.log("hello world - moo", input);
 }</code></pre>
-
-
-
-<p>This is just some regular paragraph text.</p>
 
 
 
