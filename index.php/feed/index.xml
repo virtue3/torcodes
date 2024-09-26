@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tor Codes Blog</title>
+	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Sep 2024 02:06:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Sometime we must dance.</title>
+		<link>/index.php/2024/09/26/test-title/</link>
+					<comments>/index.php/2024/09/26/test-title/#respond</comments>
+		
+		<dc:creator><![CDATA[Tor Helmer]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2024 02:00:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6</guid>
+
+					<description><![CDATA[Code block: [...]<p><a class="btn btn-secondary understrap-read-more-link" href="/index.php/2024/09/26/test-title/">Read More...<span class="screen-reader-text"> from Sometime we must dance.</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="912" height="1024" src="/wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n-912x1024.png" alt="" class="wp-image-12" style="width:342px;height:auto" srcset="/wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n-912x1024.png 912w, /wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n-267x300.png 267w, /wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n-768x862.png 768w, /wp-content/uploads/2024/09/458204801_538558551925333_8088582277779354324_n.png 1180w" sizes="(max-width: 912px) 100vw, 912px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Code block:</h2>
+
+
+
+<pre class="wp-block-code"><code>
+//This is some code...
+
+console.log("more code!");</code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>list 1</li>
+
+
+
+<li>list 2</li>
+</ul>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>This is a quote </p>
+</blockquote>
+</blockquote>
+</blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2024/09/26/test-title/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
